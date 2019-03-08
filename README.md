@@ -4,11 +4,11 @@ Darwin
 
 Solaris
 
-FreeBSD  <-- it works well. 
+FreeBSD  
 
 OpenBSD
 
-NetBSD
+NetBSD  <-- Recommended. It works well.
 
 GNU/Hurd
 
